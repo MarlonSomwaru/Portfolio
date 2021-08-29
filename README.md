@@ -1,5 +1,5 @@
 # Data Science Portfolio
-This repository contains the projects that I am currently working, as well as those that I have completed.  Some of the projects have also been published on [Medium](https://medium.com/@marlon.somwaru). Links to the can also be found on my [website](http://marlonsomwaru.com/).
+This repository contains the projects that I am currently working on, as well as those that I have completed.  Some of the projects have also been published on [Medium](https://medium.com/@marlon.somwaru). Links to the can also be found on my [website](http://marlonsomwaru.com/).
 
 
 
